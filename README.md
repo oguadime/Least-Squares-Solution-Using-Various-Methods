@@ -3,7 +3,7 @@ A MATLAB script to compute and compare the least squares solutions of an overdet
 
 # Description 
 This repository contains a MATLAB script that demonstrates the computation of the least squares solution to a given overdetermined system using various methods, including:
-- Backslash operator (\)
+- Backslash operator 
 - Normal equations
 - Cholesky decomposition
 - QR decomposition
